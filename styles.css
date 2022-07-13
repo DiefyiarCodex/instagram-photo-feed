@@ -1,0 +1,39 @@
+body{
+    background: gray;
+    margin: 0%;
+}
+
+header{
+    background: white;
+    padding: 10px;
+}
+
+.post{
+    background: white;
+    margin: auto;
+}
+
+.post * img{
+    width: 100%;
+
+}
+.post * h2{
+    padding: 5px;
+}
+.post * p{
+    padding: 15px;
+}
+ 
+.post-header > #titulo{
+    display: inline-block;
+    background: white;
+}
+.post-header > #fecha{
+    display: inline-block;
+    background: white;
+}
+
+.container{
+    width: 400px;
+    margin: auto;
+}
